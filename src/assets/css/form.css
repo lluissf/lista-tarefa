@@ -1,0 +1,26 @@
+button {
+    background-color: #333974;
+    color: #fff;
+    padding: 15px 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.complete {
+    background-color: #5cb85c;
+}
+.remove {
+    background-color: #D9534f;
+}
+.todo-form {
+    padding-bottom: 1.5rem;
+}
+
